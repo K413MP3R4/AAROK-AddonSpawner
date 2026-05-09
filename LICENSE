@@ -1,28 +1,41 @@
-AAROK Add-On Vehicle Spawner Theme License and Notice
-====================================================
+AAROK Add-On Vehicle Spawner Theme License
+==========================================
 
 Copyright (c) 2026 AAROK.
 
-The AAROK theme files, configuration changes, documentation, and AAROK preview
-image included in this package are provided for personal, non-commercial use.
+This repository contains two categories of material:
 
-You may:
-- use this package for personal GTA V story mode mod testing;
-- modify the AAROK theme/configuration for personal use;
-- share this repository privately with collaborators.
+1. GTAVAddonLoader / Add-On Vehicle Spawner covered material
+------------------------------------------------------------
 
-You may not:
-- sell this package;
-- claim the original Add-On Vehicle Spawner as your own work;
-- remove original credits;
-- use this package in GTA Online;
-- relicense the original Add-On Vehicle Spawner binary or source.
+The Add-On Vehicle Spawner / GTAVAddonLoader code and executable are by ikt
+and are distributed under the Mozilla Public License 2.0.
 
-Third-party notice:
-This package includes or references Add-On Vehicle Spawner by ikt. The original
-spawner remains the property of its original author and is not relicensed by
-this notice. This license only covers the AAROK theme/configuration work and
-documentation created for this package.
+Original source:
+https://github.com/ikt32/GTAVAddonLoader
+
+MPL 2.0:
+https://www.mozilla.org/MPL/2.0/
+
+This repository does not remove or replace the original MPL 2.0 rights.
+Recipients must keep the original notices and must be able to obtain the
+corresponding source code for covered executable material.
+
+2. AAROK material
+-----------------
+
+The AAROK preview image, AAROK branding, documentation, and configuration
+changes are copyright (c) 2026 AAROK unless otherwise stated.
+
+You may use and modify the AAROK configuration and documentation for personal
+GTA V story mode mod testing. AAROK names, logos, and branding are not licensed
+as trademarks or brand assets for unrelated projects.
+
+General notes
+-------------
+
+Do not use this package in GTA Online. Always keep original credits and license
+notices.
 
 No warranty:
 This package is provided as-is, without warranty of any kind. Use it at your
