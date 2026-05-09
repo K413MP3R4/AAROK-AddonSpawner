@@ -54,6 +54,7 @@ The group will appear in the spawner under user add-on groupings.
 - This package is branded as `1.6.5` for the AAROK theme/config build.
 - The core ASI remains based on Add-On Vehicle Spawner `1.6.2`.
 - Real anti-crash/freeze fixes inside the ASI require source-code changes, compilation, and in-game testing.
+- Add-On Vehicle Spawner / GTAVAddonLoader is licensed under MPL 2.0. Keep the original credits and source link when redistributing.
 
 ## Credits
 
